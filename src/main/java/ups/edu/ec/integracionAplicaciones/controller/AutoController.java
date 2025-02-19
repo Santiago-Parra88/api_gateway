@@ -12,7 +12,7 @@ import ups.edu.ec.integracionAplicaciones.model.Auto;
 import ups.edu.ec.integracionAplicaciones.service.AutoService;
 
 @RestController
-@RequestMapping("/auto")
+@RequestMapping("/Auto")
 public class AutoController {
 
     @Autowired
